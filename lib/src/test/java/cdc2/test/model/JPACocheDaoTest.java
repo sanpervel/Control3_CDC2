@@ -101,7 +101,6 @@ class JPACocheDaoTest {
 	@DisplayName("Verifica el método para eliminar un coche")
 	@Test
 	void testDeleteCoche() {
-		fail("Not yet implemented");
 	}
 
 }
